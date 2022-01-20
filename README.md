@@ -37,7 +37,7 @@ To learn more:
 
 ## To install Pi-Apps
 ```bash
-wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+wget -qO- https://raw.githubusercontent.com/rbcoder117/pi-apps-beta-testing/master/install | bash
 ```
 <img src="icons/screenshots/main%20window.png?raw=true" align="right" height="270px"/>
     

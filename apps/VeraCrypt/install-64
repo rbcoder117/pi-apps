@@ -1,6 +1,6 @@
 #!/bin/bash
 
-version=1.25.9
+version=1.26.7
 
 case $(get_codename) in
 bionic)
